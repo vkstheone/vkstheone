@@ -10,9 +10,9 @@
 
 <div width="100%">
   <span align="left">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstheone&layout=compact&title_color=00E6FE&bg_color=3d3d3d&text_color=ffffff"/>
+   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstheone&layout=compact&title_color=00E6FE&bg_color=3d3d3d&text_color=ffffff"/>
   </span>
- <span align="left" height="300px">
+ <span align="left" ">
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vkstheone&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
  </span>
   </div>
@@ -45,7 +45,6 @@
 
  
 <br>
-<img src="https://komarev.com/ghpvc/?username=rhuanbello&label=Visits">
-<img src="https://wakatime.com/badge/user/7c8afd8e-6490-43bb-b980-a081626d34af.svg">
+<img src="https://komarev.com/ghpvc/?username=vkstheone&label=Visits">
 
 
