@@ -9,12 +9,12 @@
 ## 📈 &nbsp;Some Code Stats ##
 
 <div width="100%">
- <span align="left" height="300px">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vkstheone&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
- </span>
   <span align="left">
    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstheone&layout=compact&title_color=00E6FE&bg_color=3d3d3d&text_color=ffffff"/>
   </span>
+ <span align="left" height="300px">
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vkstheone&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
+ </span>
   </div>
 </div>
 <div>
