@@ -8,6 +8,8 @@
 
 ## 📈 &nbsp;Some Code Stats ##
 
+ https://vinicius-kener.vercel.app/
+
 <div width="100%">
   <span align="left">
    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstheone&layout=compact&title_color=00E6FE&bg_color=3d3d3d&text_color=ffffff"/>
